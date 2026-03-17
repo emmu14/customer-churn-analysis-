@@ -134,7 +134,7 @@ Based on the SQL analysis findings:
 ## 👤 About Me
 This is **Project 2** in my data analytics portfolio. I am learning data analytics and building real projects to develop my skills.
 
-📧 your.email@gmail.com
+📧 emmanuvelchristin2@gmail.com
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/emmanuvel-christin-63b585264)
 📊 [Project 1 — Sales Dashboard](https://github.com/emmu14/sales-dashboard)
 
