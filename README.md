@@ -124,7 +124,7 @@ Based on the SQL analysis findings:
 ![Dashboard Overview](https://github.com/emmu14/customer-churn-analysis-/blob/main/Screenshot%202026-03-17%20232332.png)
 
 ### KPI Cards
-![KPI Cards](screenshots/kpi_cards.png)
+![KPI Cards](https://github.com/emmu14/customer-churn-analysis-/blob/main/Screenshot%202026-03-17%20235606.png)
 
 ### At-Risk Customers Table
 ![At Risk Table](https://github.com/emmu14/customer-churn-analysis-/blob/main/Screenshot%202026-03-17%20235554.png)
