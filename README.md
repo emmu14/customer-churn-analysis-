@@ -2,7 +2,7 @@
 # 🔍 Customer Churn Analysis
 **Tools Used:** MySQL | Power BI | Excel | GitHub
 
-![Dashboard](Screenshot 2026-03-17 232332.png)
+![Dashboard](https://github.com/emmu14/customer-churn-analysis-/blob/main/Screenshot%202026-03-17%20232332.png)
 
 ---
 
@@ -121,7 +121,7 @@ Based on the SQL analysis findings:
 ## 📸 Screenshots
 
 ### Full Dashboard
-![Dashboard Overview](Screenshot 2026-03-17 232332.png)
+![Dashboard Overview](https://github.com/emmu14/customer-churn-analysis-/blob/main/Screenshot%202026-03-17%20232332.png)
 
 ### KPI Cards
 ![KPI Cards](screenshots/kpi_cards.png)
