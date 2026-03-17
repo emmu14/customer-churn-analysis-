@@ -1,4 +1,4 @@
-# customer-churn-analysis-
+
 # 🔍 Customer Churn Analysis
 **Tools Used:** MySQL | Power BI | Excel | GitHub
 
